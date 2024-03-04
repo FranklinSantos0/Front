@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#cabecalho{
+    background-color: limegreen;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+#logo{
+    text-align: center;
+    font-family: 'Kode Mono','Tahoma';
+    color: #ffffff;
+    padding-top: 30px;
+}
+#menu{
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+    color: azure;
+
+}
+#menu li{
+    list-style-type: none;
+    display: inline;
+    padding: 0 5%;
+    cursor: pointer;
+}
+#menu li:hover{
+    background-color: green;
+    font-size: 1.5em;
+}
+#conteudo{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 200px;
+}

@@ -1,0 +1,30 @@
+
+h1#titulo,h2{
+    text-align: center;
+
+}
+.local-ano{
+    font-weight: bold;
+    font-style: italic;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+
+/* #dados-pessoais, #formacao,#objetivo,#experiencia, #complementares,hr */
+body{
+     margin: 0, auto;
+     width: 90%;
+}
+#objetivo{
+    clear: left;
+}
+
+.dados{
+    float: left;
+}
+.foto
+
+
+
